@@ -1,5 +1,8 @@
 package com.dhan.e_commerce_application.entities;
 
-public class Product {
+public interface Product {
+	
+	public int getId();
+	public String getProductName();
 
 }

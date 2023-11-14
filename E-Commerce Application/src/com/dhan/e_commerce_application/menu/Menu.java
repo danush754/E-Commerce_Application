@@ -1,5 +1,8 @@
 package com.dhan.e_commerce_application.menu;
 
-public class Menu {
+public interface Menu {
+	
+	void start();
+	void printMenuHeader();
 
 }

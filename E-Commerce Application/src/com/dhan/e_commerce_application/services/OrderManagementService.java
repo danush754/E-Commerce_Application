@@ -1,5 +1,12 @@
 package com.dhan.e_commerce_application.services;
 
-public class OrderManagementService {
+import com.dhan.e_commerce_application.entities.Order;
+
+public interface OrderManagementService {
+	
+	void addOrder(Order order);
+	Order[] getOrderByUserId(int userId);
+	Order[] getOrders();
+	
 
 }
