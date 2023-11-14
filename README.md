@@ -9,3 +9,11 @@ This is a simple Console-based E-Commerce Application implemented in Java. The a
 - **Product Management**: Add, and view product details.
 - **Customer Management**: Add, view, and update customer information.
 - **Order Processing**: Place and manage customer orders.
+
+## How to Run
+
+### You can either use https or ssh for cloning the website
+1. **Clone the Repository**:
+
+   ```bash
+   git clone git@github.com:danush754/E-Commerce_Application.git
