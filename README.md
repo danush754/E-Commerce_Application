@@ -17,3 +17,6 @@ This is a simple Console-based E-Commerce Application implemented in Java. The a
 
    ```bash
    git clone git@github.com:danush754/E-Commerce_Application.git
+
+
+[**If you need to learn how to clone a github repo to your local meachine feel free to checkout this page**](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository)
